@@ -14,7 +14,7 @@ github:
   project:
     owner_type: "user" # "user" or "org"
     owner_login: "gabregala"     # Owner login (may differ from repo owner)
-    project_number: null                 # Resolved during init
+    project_number: 1                 # Resolved during init
     project_id: null                     # Stable GraphQL ID (resolved during init)
   
   # Required custom fields (IDs resolved during init)
